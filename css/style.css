@@ -79,14 +79,12 @@ nav {
 
 .back {
   color: #007AFF;
-/*  display: inline-block; /*added*/
   line-height: 44px;
   padding-left: 20px;
 }
 
 
 .headline {
-  /*display: inline-block; /*added*/
   vertical-align: middle;
 }
 
