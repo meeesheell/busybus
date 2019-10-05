@@ -58,6 +58,7 @@ nav {
   display: inline-box;
   float: left;
   height: 88px;
+  width: 375px;
 }
 
 .status {
