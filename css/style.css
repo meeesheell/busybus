@@ -41,6 +41,10 @@ h3 {
   text-align: left;
 }
 
+h3.outofservice {
+  color: #FF3B30;
+}
+
 h4 {
   font-size: 110%;
   color: #979797;
@@ -59,6 +63,10 @@ nav {
   float: left;
   height: 88px;
   width: 375px;
+}
+
+ul {
+  list-style: none;
 }
 
 .status {
@@ -133,6 +141,7 @@ nav {
   width: 10%;
 }
 
+
 .content-list {
   box-sizing: border-box;
   float: left;
@@ -151,7 +160,7 @@ nav {
 }
 
 .busroute:hover {
-  background-color: #B4B2B4;
+  background-color: #E0E0E0;
 }
 
 #box {
